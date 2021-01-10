@@ -56,6 +56,22 @@
                 motion:motionTarget="@+id/textView3"
                 motion:framePosition="80"
                 android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/textView4"
+                motion:framePosition="0"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/textView4"
+                motion:framePosition="80"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/textView7"
+                motion:framePosition="0"
+                android:alpha="0" />
+            <KeyAttribute
+                motion:motionTarget="@+id/textView7"
+                motion:framePosition="80"
+                android:alpha="0" />
         </KeyFrameSet>
         <OnClick />
     </Transition>
